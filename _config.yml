@@ -6,7 +6,7 @@ permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: Pablo
-paginate: 6
+paginate: 30
 disqus: 'demowebsite'
 locale: es_es
 lang: es_es
