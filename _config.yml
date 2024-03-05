@@ -1,12 +1,12 @@
-title: "LegalFiles"
-email: contacto+legalfiles@pabloarrabal.com
+title: "Blog de ciber"
+email: contacto+blog@pabloarrabal.com
 timezone: UTC
 baseurl: ""
 permalink: "/:title/"
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/favicon.ico'
 author: Pablo
-paginate: 30
+paginate: 3
 disqus: 'demowebsite'
 locale: es_es
 lang: es_es
@@ -28,7 +28,7 @@ authors:
     name: Pablo Arrabal Espinosa
     display_name: Nuoframework
     avatar: 'assets/images/pablo.jpg'
-    email: contacto+legalfiles@pabloarrabal.com
+    email: contacto+blog@pabloarrabal.com
     web: https://pabloarrabal.com
     twitter: https://x.com/nuoframework
     description: "Autor de pabloarrabal.com, CEO y Creador de LegalFiles"
