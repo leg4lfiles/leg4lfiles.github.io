@@ -4,7 +4,6 @@ title:  "TLauncher, el anzuelo perfecto"
 author: Pablo
 categories: [ Software, Malware ]
 image: assets/images/5.jpg
-featured: true
 ---
 
 ## Historia de Tlauncher

@@ -4,7 +4,6 @@ title:  "IA, ¿Futuro de la ciberseguridad?"
 author: Pablo
 categories: [ Cybersecurity, Artificial Intelligence ]
 image: assets/images/5.jpg
-featured: true
 ---
 
 La inteligencia artificial (IA) está transformando rápidamente el panorama de la ciberseguridad. Se están utilizando herramientas basadas en IA para detectar y prevenir ciberataques, así como para responder a los incidentes con mayor rapidez y eficacia.

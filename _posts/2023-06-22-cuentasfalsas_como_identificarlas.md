@@ -4,7 +4,6 @@ title:  "Desmontando la falsedad online"
 author: Pablo
 categories: [ Cybersecutity, Scams ]
 image: assets/images/5.jpg
-featured: true
 ---
 
 ## ¿Qué es una cuenta falsa? ¿Cuál es su finalidad?
